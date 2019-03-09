@@ -1,0 +1,253 @@
+<resources>
+    <string name="app_name">Everyday Survival</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Everyday Survival</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="intro_content">An Epic Survival Guide to Every day Life</string>
+    <string name="cpr1">1. Before starting CPR, check:
+	\n* Is the environment safe for the person?
+	\n* Is the person conscious or unconscious?
+	\n* If the person appears unconscious, tap or shake his or her shoulder and ask loudly, "Are you OK?"
+	\n* If the person doesn\'t respond and two people are available, have one person call 911 or the local emergency number and get the AED, if one is available, and have the other person begin CPR.
+	\n* If you are alone and have immediate access to a telephone, call 911 or your local emergency number before beginning CPR. Get the AED, if one is available.
+	\n* As soon as an AED is available, deliver one shock if instructed by the device, then begin CPR
+    </string>
+    <string name="adults1"> 1. Put the person on his or her back on a firm surface.
+        \n2. Kneel next to the person\'s neck and shoulders.
+        \n3. Place the heel of one hand over the center of the person\'s chest, between the nipples. Place your other hand on top of the first hand. Keep your elbows straight and position your shoulders directly above your hands.
+        \n4. Use your upper body weight (not just your arms) as you push straight down on (compress) the chest at least 2 inches (approximately 5 centimeters) but not greater than 2.4 inches (approximately 6 centimeters). Push hard at a rate of 100 to 120 compressions a minute.
+        \n5. If you haven\'t been trained in CPR, continue chest compressions until there are signs of movement or until emergency medical personnel take over. If you have been trained in CPR, go on to opening the airway and rescue breathing.
+    </string>
+    <string name="children1">1. If you are alone and didn\'t see the child collapse, perform five cycles of compressions and breaths on the child — this should take about two minutes — before calling 911 or your local emergency number and getting the AED, if one is available.
+        \n2. If you\'re alone and you did see the child collapse, call 911 or your local emergency number and get the AED, if one is available, before beginning CPR. If another person is available, have that person call for help and get the AED while you begin CPR.
+        \n3. Put the child on his or her back on a firm surface.
+            \n* Kneel next to the child\'s neck and shoulders.
+            \n* Use two hands, or only one hand if the child is very small, to perform chest compressions.
+            \n* Press straight down on (compress) the chest about 2 inches (approximately 5 centimeters).
+            \n* If the child is an adolescent, push straight down on the chest at least 2 inches (approximately 5 centimeters) but not greater than 2.4 inches (approximately 6 centimeters).
+            \n* Push hard at a rate of 100 to 120 compressions a minute.
+        \n
+        \nIf you haven\'t been trained in CPR, continue chest compressions until there are signs of movement or until emergency medical personnel take over. If you have been trained in CPR, go on to opening the airway and rescue breathing.</string>
+
+    <string name="dog1">1. Dogs Less Than 30 Pounds (14 kg):
+        \n* Lay the dog on a flat surface with his/her right side against the surface.
+        \n* Cup your palms and hold the dog with one palm on either side above the heart region. (You can also place your thumb on one side of the dog’s chest and keep the fingers on the other side.)
+        \n* Compress the chest one third to one half the width of the chest for a count of one, and then let go for a count of one.
+        \n* Carry on at a rate of 100-120 compressions in a minute.
+        \nClose the muzzle with your hand before beginning artificial respiration.
+        \n* Give two breaths into the nose for every 10 to 15 compressions.
+        \n* It is best to have another person give the two breaths so compressions can continue during the breathing. A new person doing compressions should take over every two minutes or so to reduce the effect of fatigue.
+        \n* Continue with the CPR and artificial respiration for dogs until the dog begins breathing on its own and the pulse becomes steady.
+        \n* If the dog does not show any signs of improvement after 10 minutes of CPR, you can stop, as it has not proven successful.</string>
+    <string name="dog2">* Lay the dog on a flat surface with his/her right side against the surface. (You will need to stand towards the dog’s back.)
+        \n* Place one of your palms on the dog’s rib cage, near the heart region, and put your other palm on top of it.
+        \nWithout bending your elbows, press the rib cage in a downward motion.
+        \n* Compress the chest one third to one half the width of the chest for a count of one, and then let go for a count of one. The rate should be 100-120 compressions per minute.
+        \n* Close the muzzle with your hand before beginning artificial respiration. Give two breaths into the nose for every 10 to 15 compressions. It is best to have another person give the two breaths so compressions can continue during the breathing. A new person doing compressions should take over every two minutes or so to reduce the effect of fatigue.
+        \n* Continue performing CPR and rescue breaths until the dog begins to breathe and has a steady pulse.
+        \nIf the dog does not show any signs of improvement after 10 minutes of CPR, you can stop, as it has not proven successful.
+    </string>
+
+    <string name="signs1">* Inability to talk
+        \n* Difficulty breathing or noisy breathing
+        \n* Squeaky sounds when trying to breathe
+        \n* Cough, which may either be weak or forceful
+        \n* Skin, lips and nails turning blue or dusky
+        \n* Skin that is flushed, then turns pale or bluish in color
+        \n* Loss of consciousness</string>
+
+    <string name="chokingadults">1. Give 5 back blows.
+	\n* Stand to the side and just behind a choking adult.
+	\n* Place one arm across the person\'s chest for support.
+	\n* Bend the person over at the waist so that the upper body is parallel with the ground.
+	\n* Hit between the person\'s shoulder blades with the heel of your hand.
+    \n
+    \n2. Give 5 abdominal thrusts.
+        \n* Stand behind the person.
+        \n* Place one foot slightly in front of the other for balance.
+        \n* Wrap your arms around the waist.
+        \n* Tip the person forward slightly.
+        \n* Make a fist with one hand. Position it slightly above the person\'s navel.
+        \n* Grasp the fist with the other hand. Press hard into the abdomen with a quick, upward thrust — as if trying to lift the person up.
+        \n* Perform between six and 10 abdominal thrusts until the blockage is dislodged.
+    \n
+    \n3. Alternate between 5 blows and 5 thrusts until the blockage is dislodged.</string>
+
+    <string name="chokingchildren">1. Give 5 back blows.
+        \n* Kneel down behind.
+        \n* Place one arm across the person\'s chest for support.
+        \n* Bend the person over at the waist so that the upper body is parallel with the ground.
+        \n* Hit between the person\'s shoulder blades with the heel of your hand.
+    \n
+    \n2. Give 5 abdominal thrusts.
+        \n* Kneel down behind the child.
+        \n* Place one foot slightly in front of the other for balance.
+        \n* Wrap your arms around the waist.
+        \n* Tip the person forward slightly.
+        \n* Make a fist with one hand. Position it slightly above the person\'s navel.
+        \n* Grasp the fist with the other hand. Press hard into the abdomen with a quick, upward thrust — as if trying to lift the person up.
+        \n* Perform between six and 10 abdominal thrusts until the blockage is dislodged.
+        \n
+    \n3. Alternate between 5 blows and 5 thrusts until the blockage is dislodged.
+    \n
+    If you\'re the only rescuer, perform back blows and abdominal thrusts before calling 911 or your local emergency number for help. If another person is available, have that person call for help while you perform first aid.
+    \n
+    \nIf the person becomes unconscious, perform standard cardiopulmonary resuscitation (CPR) with chest compressions and rescue breaths.</string>
+
+    <string name="self">1. Call 911 or your local emergency number immediately.
+	\n* Perform abdominal thrusts to dislodge the item.
+\n
+\n2. Place a fist slightly above your navel.
+	\n* Grasp your fist with the other hand and bend over a hard surface — a countertop or chair will do.
+	\n* Shove your fist inward and upward.
+
+    </string>
+
+    <string name="pregnant">1. Position your hands a little bit higher than with a normal Heimlich maneuver, at the base of the breastbone, just above the joining of the lowest ribs.
+    \n2. Proceed as with the Heimlich maneuver, pressing hard into the chest, with a quick thrust.
+    \n3. Repeat until the food or other blockage is dislodged. If the person becomes unconscious, follow the next steps.</string>
+
+    <string name="unconscious">1. Lower the person on his or her back onto the floor, arms to the side.
+    \n2. Clear the airway. If a blockage is visible at the back of the throat or high in the throat, reach a finger into the mouth and sweep out the cause of the blockage.
+
+    \n* **Don\'t try a finger sweep if you can\'t see the object. Be careful not to push the food or object deeper into the airway, which can happen easily in young children.**
+
+    \n* Begin CPR if the object remains lodged and the person doesn\'t respond after you take the above measures. The chest compressions used in CPR may dislodge the object. Remember to recheck the mouth periodically.
+</string>
+
+    <string name="baby">1. Assume a seated position and hold the infant facedown on your forearm, which is resting on your thigh.
+
+    \n2. Support the infant\'s head and neck with your hand, and place the head lower than the trunk.
+
+    \n3. Thump the infant gently but firmly five times on the middle of the back using the heel of your hand.
+
+    \n4. The combination of gravity and the back blows should release the blocking object.
+
+    \n5. Keep your fingers pointed up to avoid hitting the infant in the back of the head.
+
+    \n6. Turn the infant faceup on your forearm, resting on your thigh with the head lower than the trunk if the infant still isn\'t breathing.
+
+    \n7. Using two fingers placed at the center of the infant\'s breastbone, give five quick chest compressions. Press down about 1 1/2 inches, and let the chest rise again in between each compression.
+
+    \n8. Repeat the back blows and chest thrusts if breathing doesn\'t resume.
+
+    \n9. Call for emergency medical help.
+
+    \n10. Begin infant CPR if one of these techniques opens the airway but the infant doesn\'t resume breathing.
+
+    \n11. If the child is older than age 1 and conscious, give abdominal thrusts only.
+    \n12. Be careful not to use too much force to avoid damaging ribs or internal organs.</string>
+
+    <string name="chokingdogs">Dislodging the object
+
+    \n1. Use both hands to open the dog’s mouth, with one hand on the upper jaw and the other on the lower.
+
+    \n2. Grasping the jaws, press the lips over the dog’s teeth so that they are between the teeth and your fingers. Any dog can bite, so use every precaution.
+
+    \n3. Look inside the mouth and remove the obstruction with your fingers. Sweep your finger across the back of the mouth to feel for any obstruction.
+
+    \n* If there are bones lodged deep in the dog’s throat, do not try to pull these out. You will need to take your dog to the vet immediately to have him sedated and the object removed safely.
+
+    \n4. If you can’t move the object with your fingers but can see it, call your veterinarian or the emergency clinic right away.
+    \n\n
+    \nDetailed heimlich
+    \n
+    \n1. Small dogs: Carefully lay your dog on his back and apply pressure to the abdomen just below the rib cage.
+
+    \n2. Big dogs:
+    \n* Do not try to pick up a large dog; you\'re more likely to do further damage due to the animal\'s size. Instead, perform the Heimlich maneuver for dogs:
+
+    \n* If the dog is standing, put your arms around her belly, joining your hands. Make a fist and push firmly up and forward, just behind the rib cage. Place the dog on his side afterward.
+
+    \n* If the dog is lying down on his side, place one hand on the back for support and use the other hand to squeeze the abdomen upwards and forwards towards the spine.
+
+    \n* Check the dog\'s mouth and remove any objects that may have been dislodged using the precautions described above.
+</string>
+
+    <string name="minorcuts">\n Take the following steps for minor cuts.
+
+\n 1. Stop the Bleeding
+
+	\n * Apply direct pressure on the area.
+
+\n2. Clean and Protect
+
+	\n* Clean the area with warm water and gentle soap.
+
+	\n* Apply an antibiotic ointment to reduce chance of infection.
+
+	\n* Put a sterile bandage on the area.
+
+	\n* In some people, antibiotic ointments may cause a rash.
+
+	\n* If this happens, stop using the ointment.</string>
+    <string name="burns">Stop Burns Immediately \n1. Stop Burning Immediately
+* Put out fire or stop the person\'s contact with hot liquid, steam, or other material.
+
+\n* Help the person "stop, drop, and roll" to smother flames.
+Remove smoldering material from the person.
+
+\n* Remove hot or burned clothing. If clothing sticks to skin, cut or tear around it.
+
+\n2. Remove Constrictive Clothing Immediately
+
+\n* Take off jewelry, belts, and tight clothing. Burns can swell quickly.
+
+        For First-Degree Burns (Affecting Top Layer of Skin)
+
+\n1. Cool Burn
+
+	\n* Hold burned skin under cool (not cold) running water or immerse in cool water until pain subsides.
+
+	\n* Use compresses if running water isn’t available.
+
+\n2. Protect Burn
+
+	\n* Cover with sterile, non-adhesive bandage or clean cloth.
+
+	\n* Do not apply butter or ointments, which can cause infection.
+    </string>
+    <string name="sprains">
+        \n1. Rest the injured area.
+
+\n2. If the ankle or knee is hurt, your doctor may tell you to use crutches or a cane.
+
+\n3. Put ice on the injury for 20 minutes 4 to 8 times a day.
+Compress (squeeze) the injury using special bandages, casts, boots, or splints.
+
+\n4. Your doctor will tell you which one is best for you and how tight it should be.
+
+\n5. Put the injured ankle, knee, elbow, or wrist up on a pillow.
+
+\n6. Take medicines, such as aspirin or ibuprofen.
+
+    </string>
+
+
+    <string name="musclestrain">	\n* **Ice or heat should not be applied to bare skin. Always use a protective covering such as a towel between the ice or heat and the skin.**
+
+	\n* Take nonsteroidal anti-inflammatory drugs (NSAIDS) such as naproxen or ibuprofen to reduce pain and improve your ability to move around.
+
+		\n* Do not take NSAIDS if you have kidney disease or a history of gastrointestinal bleeding or if you are also taking a blood thinner without first talking with your doctor. In that case, it is safer to take acetaminophen, which helps lessen pain but does not reduce inflammation.
+
+	\n* Protection, rest, ice, compression, and elevation (known as the PRICE formula) can help the affected muscle. Here\'s how: First, remove all constrictive clothing, including jewelry, in the area of muscle strain. Then:
+
+	\n* Protect the strained muscle from further injury.
+
+	\n* Rest the strained muscle. Avoid the activities that caused the strain and other activities that are painful.
+
+	\n* Ice the muscle area (20 minutes every hour while awake). Ice is a very effective anti-inflammatory and pain-reliever. Small ice packs, such as packages of frozen vegetables or water frozen in foam coffee cups, applied to the area may help decrease inflammation.
+
+	\n* Compression can be gently applied with an Ace or other elastic bandage, which can both provide support and decrease swelling. Do not wrap tightly.
+
+	\n* Elevate the injured area to decrease swelling. Prop up a strained leg muscle while sitting, for example.
+
+	\n* Activities that increase muscle pain or work the affected body part are not recommended until the pain has significantly improved.</string>
+
+
+
+</resources>

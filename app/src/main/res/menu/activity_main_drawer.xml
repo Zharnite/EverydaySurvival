@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_introduction"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Introduction" />
+        <item
+            android:id="@+id/nav_cpr"
+            android:icon="@drawable/ic_menu_send"
+            android:title="CPR" />
+        <item
+            android:id="@+id/nav_choking"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Choking" />
+        <item
+            android:id="@+id/nav_injuries"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Injuries" />
+        <item
+            android:id="@+id/nav_fitness"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Fitness" />
+        <item
+            android:id="@+id/nav_credits"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Credits" />
+    </group>
+
+</menu>

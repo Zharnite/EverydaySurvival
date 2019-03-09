@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Credits"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="389dp"
+        android:layout_height="618dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637 https://www.petmd.com/dog/emergency/common-emergencies/e_dg_choking https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600 https://www.webmd.com/first-aid/cuts-or-lacerations-treatment https://www.webmd.com/first-aid/thermal-heat-or-fire-burns-treatment https://www.niams.nih.gov/health-topics/sprains-and-strains#tab-treatment https://www.4wheelparts.com/a/all-terrain-tires5-step-flat-repair"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
